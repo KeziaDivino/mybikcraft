@@ -2,7 +2,11 @@
 @import "./Utitlidades/tipografia.css";
 @import "./Utitlidades/cores.css";
 @import "./Global/header.css";
+@import "./Global/footer.css";
 @import "./Home/introducao.css";
 @import "./Utitlidades/componentes.css";
 @import "./Bicicletas/bicicletas-lista.css";
 @import "./Home/tecnologia.css";
+@import "./Home/parceiros.css";
+@import "./Home/depoimento.css";
+@import "./Seguros/Seguros.css";
