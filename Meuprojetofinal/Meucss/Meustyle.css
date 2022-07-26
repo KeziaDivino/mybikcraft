@@ -6,7 +6,11 @@
 @import "./Home/introducao.css";
 @import "./Utitlidades/componentes.css";
 @import "./Bicicletas/bicicletas-lista.css";
+@import "./Bicicletas/bicicletas.css";
 @import "./Home/tecnologia.css";
 @import "./Home/parceiros.css";
 @import "./Home/depoimento.css";
 @import "./Seguros/Seguros.css";
+@import "./Termos/termos.css";
+@import "./Seguros/vantagens.css";
+@import "./Seguros/perguntas.css";
